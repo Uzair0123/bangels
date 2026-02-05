@@ -10,7 +10,7 @@ The project is written using OOP (class based design).
 - Simple and beginner friendly
 
 ## File
-bangles_inventory.py
+bangls.py
 
 ## How to run
 
