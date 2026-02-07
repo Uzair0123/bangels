@@ -2,7 +2,7 @@
 
 This is my first beginner Python project created as part of my GitHub learning journey.
 
-The project is written using OOP (class based design).
+The project is written using OOP (class based design).<br>
 right now i am feeling proud of it.
 
 ## Features
